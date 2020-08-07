@@ -26,4 +26,8 @@ else
   puts "Stay home and read Hegel."
 end
 
-
+if current_time % 2 == 0
+  puts "Even!"
+else
+  puts "Odd!"
+end
