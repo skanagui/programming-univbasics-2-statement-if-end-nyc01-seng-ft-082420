@@ -26,3 +26,8 @@ else
   puts "Stay home and read Hegel."
 end
 
+if true
+  puts "Even!"
+else
+  puts "Odd!"
+end 
