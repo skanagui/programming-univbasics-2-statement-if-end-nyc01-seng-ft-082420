@@ -26,6 +26,7 @@ else
   puts "Stay home and read Hegel."
 end
 
+current_time = Time.now 
 if true
   puts "Even!"
 else
