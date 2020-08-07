@@ -26,8 +26,4 @@ else
   puts "Stay home and read Hegel."
 end
 
-if current_time.even?
-  puts "Even!"
-else
-  puts "Odd!"
-end
+
